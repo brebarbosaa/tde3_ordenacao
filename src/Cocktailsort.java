@@ -1,3 +1,8 @@
+// percorre o vetor de forma "vai e volta". Percorre o vetor da esquerda para a direita comparando cada par de elementos
+// troca os pares de elementos fora de ordem, assim o maior elemento vai para o final.
+// Percorre da direita para a esquerda comparando pares de elementos e trocando se necessário, de forma que no final o menor elemento fique no inicio.
+
+
 public class Cocktailsort {
     public static int trocas;
     static void cocktailSort(int tamanho, int[] vetor){

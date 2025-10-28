@@ -1,3 +1,5 @@
+// Compara um elemento com todos e encontrar o maior/menor enquanto caminha pelo vetor
+
 public class Selectionsort {
     public static int trocas;
 
